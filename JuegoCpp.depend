@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1669356359 source:c:\users\petaflop\documents\platzi\desarrollo de software\cpp\cursopracticocpp\juego\juegocpp\juegocpp\src\player.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+	"Player.h"
+
+1669263567 c:\users\petaflop\documents\platzi\desarrollo de software\cpp\cursopracticocpp\juego\juegocpp\juegocpp\include\player.h
+
+1669358809 source:c:\users\petaflop\documents\platzi\desarrollo de software\cpp\cursopracticocpp\juego\juegocpp\juegocpp\main.cpp
+	<iostream>
+	<Windows.h>
+	"Player.h"
+	"Enemy.h"
+	"MapCell.h"
+	"GameMap.h"
+
+1669352728 source:c:\users\petaflop\documents\platzi\desarrollo de software\cpp\cursopracticocpp\juego\juegocpp\juegocpp\src\mapcell.cpp
+	<iostream>
+	"MapCell.h"
+
+1668673066 c:\users\petaflop\documents\platzi\desarrollo de software\cpp\cursopracticocpp\juego\juegocpp\juegocpp\include\mapcell.h
+
+1669358831 c:\users\petaflop\documents\platzi\desarrollo de software\cpp\cursopracticocpp\juego\juegocpp\juegocpp\include\gamemap.h
+	"MapCell.h"
+
+1669358911 source:c:\users\petaflop\documents\platzi\desarrollo de software\cpp\cursopracticocpp\juego\juegocpp\juegocpp\src\gamemap.cpp
+	"GameMap.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<Enemy.h>
+
+1669354249 source:c:\users\petaflop\documents\platzi\desarrollo de software\cpp\cursopracticocpp\juego\juegocpp\juegocpp\src\enemy.cpp
+	"Enemy.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1669353491 c:\users\petaflop\documents\platzi\desarrollo de software\cpp\cursopracticocpp\juego\juegocpp\juegocpp\include\enemy.h
+
